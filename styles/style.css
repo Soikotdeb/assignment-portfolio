@@ -1,0 +1,177 @@
+*{
+ margin: 0;  
+ font-family: sans-serif; 
+}
+.home{
+    background-image: url('../images/banner/banner3.png');
+    height: 100vh;
+    width: 100%; 
+}
+.main{
+    font-size: 26px;
+    color: aliceblue;
+    display: flex;
+    justify-content: right;
+    text-align: right;
+}
+.main-title{
+   
+   position: absolute;
+   left: 30px;
+   top: 160px;
+}
+.small{
+font-size: 18px;
+    
+}
+.button{
+    background-color: aliceblue;
+    font-size: 25px;
+    border: none;
+   height: 30px;
+   width: 138px;
+   border-radius: 3px;
+ display: flex;
+ text-align: right;
+ margin-left: 1160px;
+}
+ /* second home */
+ .myimg{
+   margin-left: 100px;
+ }
+.my-fev{
+   margin-top: 300px; 
+   margin-left: 90px;
+}
+.small-s{
+    margin-left: 90px;  
+    margin-top: 30px;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+.middle{
+    display: flex;
+    margin-top: 60px;
+}
+
+li{
+    list-style-type: none;
+}
+.li-class{
+    margin-top: 5px;
+    margin-left: 50px;
+}
+/* my plan style */
+.plan{
+    font-weight: 300;
+font-size: 40px;
+line-height: 47px;
+text-align: center;
+color: #151414;
+}
+.plan-down{
+    text-align: center;
+    display: flex;
+    margin-top: 60px;
+    align-items: center;
+    justify-content: center;
+  
+}
+.icon{
+    margin-left: 100px;
+    margin-bottom: 15px;
+}
+/* awlays style */
+.awlays{
+ background-image:   linear-gradient(rgb(193, 89, 89),rgb(160, 160, 204)),url('../images/watch.png');
+ background-repeat: no-repeat;
+ background-blend-mode: hard-light;
+ height: 40vh;
+ width: 75%;
+ margin-top: 70px;
+ margin-left: 180px;
+text-transform: capitalize;
+margin-bottom: 50px;
+
+}
+.gf{
+    color: aliceblue;
+    font-size: 30px;
+  margin-left: 60px;
+  margin-bottom: 40px;
+  
+ 
+}
+.btn{
+    color: blue;
+    background-color: aliceblue;
+    padding: 15px;
+    border-radius: 3px;
+    margin-left: 65px;
+    font-size: 20px;
+}
+/* last footer */
+.last-footer{
+    background: #151414;
+    height: 400px;
+    width: 100%;
+    color: rgb(246, 245, 245);
+    
+}
+.future{
+    font-size: 50px;
+    margin-left: 50px;
+  
+  
+}
+.paragraph{
+  color: aliceblue;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.information{
+  color: aliceblue;
+  margin-top: 20px;
+  margin-left: 30px;
+  font-size: 15px;
+}
+.subscribe{
+  text-align: center;
+  margin-left: 750px;
+ 
+}
+.form{
+    display: flex;
+    justify-content: center;
+    margin-left: 780px;
+background-color: #151414;
+border: 1px ;
+
+
+}
+.btn-3{
+    background-color: crimson;
+  font-size: 30px;
+  margin: none;
+  border-radius: 5px;
+}
+.bt{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    margin-left: 765px;
+    
+}
+.icon-1{
+   width: 10px;
+   display: flex;
+   margin-top: 20px;
+ height: 50px;
+
+
+}
+
+i{
+    color: teal;
+}
+/* about section */
