@@ -175,3 +175,44 @@ i{
     color: teal;
 }
 /* about section */
+.aboutme{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    margin-bottom: 100px;
+    padding-top: 50px;
+    
+}
+.aboutImage img{
+    width: 300px;
+}
+.abouttext p{
+    font-size: 20px;
+}
+.aboutImage{
+    padding-left: 140px;
+}
+.abouttext h1{
+    font-size: 50px;
+}
+
+.abouttext{
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
+.button-p {
+
+    border: none;
+    color: white;
+    padding: 20px 39px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    background: rgb(214,38,78);
+    background: linear-gradient(90deg, rgba(214,38,78,1) 0%, rgba(253,130,29,1) 0%, rgba(227,35,62,1) 100%, rgba(103,58,180,1) 100%, rgba(252,176,69,1) 100%);
+    margin-top: 15px;
+  }
